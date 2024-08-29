@@ -7,7 +7,7 @@ install:
 
 format:
 	#black src/*.py &&\
-		black notebooks/*.ipynb
+		black *.ipynb
 
 # test:
 # 	python -m pytest -vv -s --cov=functions src/test_functions.py

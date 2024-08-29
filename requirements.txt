@@ -8,3 +8,6 @@ black[jupyter]
 ipykernel
 tqdm
 python-dotenv
+
+numpy
+pandas
