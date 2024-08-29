@@ -1,0 +1,10 @@
+jupyterlab
+click
+pylint
+pytest
+pytest-cov
+black
+black[jupyter]
+ipykernel
+tqdm
+python-dotenv
